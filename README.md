@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I'm Kexue Fu, a Lecturer at Shandong Computer Science Center (National Supercomputer Center in Jinan) in Qilu University of Technology (Shandong Academy of Sciences). For more information about me, please visit my [Home](https://fukexue.github.io/).
+
+
+
 <!--
 **fukexue/fukexue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
